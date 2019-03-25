@@ -1,0 +1,20 @@
+{
+  "request_number": 1000,
+  "workers": 200,
+  "timeout": 5,
+  "method": "POST",
+  "url": "http://dev.finance.iyobee.com/ins-policies/aggregation/",
+  "headers": {
+    "Content-Type": "application/json",
+    "Cookie": "sessionid=yhcdwhe073c638hsey1hopb26qk4uiqw; _SIGMA_JWT_DEV_=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZWE1NWQzZWMtMTk3OC0xMWU5LTkwMGItMDAxNjNlMGMzMDRlIiwiYXBwX2lkIjpudWxsLCJjaGFubmVsIjpudWxsfQ.Qp23m_J4WDYBWbQUPxbucyKOYXhvAu4JRqU3mmDVF1I"
+  },
+  "data": {
+    "id_list": [
+      "93rj6l734pngvmo4",
+      "6jnxv01ex7mqgy29",
+      "rw45eg70k1k2jzno",
+      "lvz48wpom1regdy0",
+      "gw96q47j313o8vnx"
+    ]
+  }
+}
